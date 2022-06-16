@@ -1,6 +1,6 @@
 abbreviation: EDT
 client_ip: 98.243.58.181
-datetime: 2022-06-16T00:23:51.684057-04:00
+datetime: 2022-06-16T00:28:13.671437-04:00
 day_of_week: 4
 day_of_year: 167
 dst: true
@@ -9,7 +9,7 @@ dst_offset: 3600
 dst_until: 2022-11-06T06:00:00+00:00
 raw_offset: -18000
 timezone: America/Detroit
-unixtime: 1655353431
-utc_datetime: 2022-06-16T04:23:51.684057+00:00
+unixtime: 1655353693
+utc_datetime: 2022-06-16T04:28:13.671437+00:00
 utc_offset: -04:00
 week_number: 24
